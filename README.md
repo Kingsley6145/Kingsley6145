@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/its_kingslee" target="blank"><img src="https://img.shields.io/twitter/follow/its_kingslee?logo=twitter&style=for-the-badge" alt="its_kingslee" /></a> </p>
 
-- 👋 I'm currently working on [An IT Technical Management System](https://github.com/zetech-ict/An-IT-Technical-Support-System.git)
+- 👋 I'm currently working on [An IT Technical Support System](https://github.com/zetech-ict/An-IT-Technical-Support-System.git)
 
 - 🌱 I’m currently learning **Python, Java, Html**
 
