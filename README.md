@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python, Java, Html**
 
-- 👯 I’m looking to collaborate on **hospital management system**
+- 👯 I’m looking to collaborate on **software development**
 
 - 💬 Ask me about **Any programming language**
 
