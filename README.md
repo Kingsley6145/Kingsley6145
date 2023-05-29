@@ -11,7 +11,7 @@
 - 👋 I'm currently working on [An IT Technical Support System](https://github.com/zetech-ict/An-IT-Technical-Support-System.git)
 - 🔭 I’m currently working at [Zetech University](https://elearning.zetech.ac.ke/)
 
-- 🌱 I’m currently learning **Python, Java, Html**
+- 🌱 I’m currently learning **Python, Java, Html, CSS**
 
 - 👯 I’m looking to collaborate on **software development**
 
