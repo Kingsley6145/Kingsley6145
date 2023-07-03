@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Any programming language**
 
-- 📫 How to reach me **Kingsleytrapking@gmail.com**
+- 📫 How to reach me **kingsleytrapking@gmail.com**
 
 - ⚡ Fun fact **"A fun fact about me is that I once participated in a competition where my team and I developed a web app in just 24 hours. It was an intense and exhilarating experience, working under pressure and collaborating with fellow developers to create a functional product within such a tight timeframe. Despite the sleep deprivation, we managed to win third place and it was a great reminder of the incredible things that can be achieved with teamwork and dedication in the world of software development."**
 
